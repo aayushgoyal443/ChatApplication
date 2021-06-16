@@ -1,0 +1,28 @@
+{
+  "name": "chatapplication",
+  "version": "1.0.0",
+  "description": "A Real time chat appication",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayushgoyal443/ChatApplication.git"
+  },
+  "keywords": [
+    "ChatApp"
+  ],
+  "author": "Paamji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aayushgoyal443/ChatApplication/issues"
+  },
+  "homepage": "https://github.com/aayushgoyal443/ChatApplication#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14",
+    "socket.io": "^4.1.2"
+  }
+}
